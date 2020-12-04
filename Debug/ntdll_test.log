@@ -1,0 +1,11 @@
+﻿  engine.cpp
+  main.cpp
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(54): warning C4409: illegal instruction size
+  WinApiReversed.cpp
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(54): warning C4409: illegal instruction size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(94,31): warning C4477: 'sprintf' : format string '%ws' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'void *'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+  wrappers.cpp
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(54): warning C4409: illegal instruction size
+  Generating Code...
+  ntdll_test.vcxproj -> C:\Users\xapak\source\repos\ntdll_test\Debug\ntdll_test.exe

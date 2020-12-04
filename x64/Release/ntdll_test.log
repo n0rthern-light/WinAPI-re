@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(42,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,13): error C2065: 'mov': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,17): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,17): error C2065: 'eax': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,22): error C2065: 'fs': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,24): error C2143: syntax error: missing ';' before ':'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,1): error C2059: syntax error: ':'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(57,35): warning C4477: 'sprintf' : format string '%ws' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'void *'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(61,1): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(61,1): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(57,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(75,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PIMAGE_DOS_HEADER' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(76,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PIMAGE_NT_HEADERS64' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(80,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PIMAGE_EXPORT_DIRECTORY' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(85,1): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned int *' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(90,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(92,1): warning C4312: 'type cast': conversion from 'DWORD' to 'char *' of greater size
+  WinApiReversed.cpp
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(42,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,13): error C2065: 'mov': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,17): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,17): error C2065: 'eax': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,22): error C2065: 'fs': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,24): error C2143: syntax error: missing ';' before ':'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(44,1): error C2059: syntax error: ':'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(57,35): warning C4477: 'sprintf' : format string '%ws' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'void *'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(61,1): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(61,1): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(57,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(75,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PIMAGE_DOS_HEADER' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(76,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PIMAGE_NT_HEADERS64' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(80,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PIMAGE_EXPORT_DIRECTORY' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(85,1): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned int *' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(90,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.h(92,1): warning C4312: 'type cast': conversion from 'DWORD' to 'char *' of greater size

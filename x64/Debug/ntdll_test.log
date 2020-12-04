@@ -1,0 +1,248 @@
+﻿  engine.cpp
+  main.cpp
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\utils.h(18,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(17,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(18,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(18,18): error C2146: syntax error: missing ';' before identifier 'client_id'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(19,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(19,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(19,18): error C2146: syntax error: missing ';' before identifier 'ObjectAttributes'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(20,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(20,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(20,18): error C2146: syntax error: missing ';' before identifier 'DesiredAccess'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(21,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(21,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(21,18): error C2146: syntax error: missing ';' before identifier 'pHandle'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(22,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(22,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(22,18): error C2146: syntax error: missing ';' before identifier 'hNtOpenProcess'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(23,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(27,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(28,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(28,18): error C2146: syntax error: missing ';' before identifier 'bytes_readed'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(29,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(29,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(29,18): error C2146: syntax error: missing ';' before identifier 'bytes_to_read'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(30,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(30,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(30,18): error C2146: syntax error: missing ';' before identifier 'buffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(31,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(31,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(31,18): error C2146: syntax error: missing ';' before identifier 'BaseAddress'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(32,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(32,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(32,18): error C2146: syntax error: missing ';' before identifier 'pHandle'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(33,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(33,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(33,18): error C2146: syntax error: missing ';' before identifier 'hNtReadVirutalMemory'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(34,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(38,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(39,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(39,18): error C2146: syntax error: missing ';' before identifier 'pHandle'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(40,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(40,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(40,18): error C2146: syntax error: missing ';' before identifier 'hNtClose'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(41,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(45,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(46,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(46,18): error C2146: syntax error: missing ';' before identifier 'DebugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(47,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(47,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(47,18): error C2146: syntax error: missing ';' before identifier 'DebugInfoClassMask'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(48,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(48,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(48,18): error C2146: syntax error: missing ';' before identifier 'ProcessId'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(49,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(49,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(49,18): error C2146: syntax error: missing ';' before identifier 'hRtlQueryProcessDebugInformation'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(50,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(53,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(54,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(54,18): error C2146: syntax error: missing ';' before identifier 'eventPair'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(55,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(55,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(55,18): error C2146: syntax error: missing ';' before identifier 'sizeOfSize'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(56,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(56,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(56,18): error C2146: syntax error: missing ';' before identifier 'hRtlCreateQueryDebugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(57,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(60,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(61,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(61,18): error C2146: syntax error: missing ';' before identifier 'debugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(62,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(62,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(62,18): error C2146: syntax error: missing ';' before identifier 'hRtlDestroyQueryDebugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(63,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(65,23): error C2485: 'naked': unrecognized extended attribute
+  WinApiReversed.cpp
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\utils.h(18,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(17,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(18,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(18,18): error C2146: syntax error: missing ';' before identifier 'client_id'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(19,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(19,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(19,18): error C2146: syntax error: missing ';' before identifier 'ObjectAttributes'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(20,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(20,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(20,18): error C2146: syntax error: missing ';' before identifier 'DesiredAccess'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(21,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(21,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(21,18): error C2146: syntax error: missing ';' before identifier 'pHandle'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(22,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(22,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(22,18): error C2146: syntax error: missing ';' before identifier 'hNtOpenProcess'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(23,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(27,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(28,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(28,18): error C2146: syntax error: missing ';' before identifier 'bytes_readed'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(29,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(29,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(29,18): error C2146: syntax error: missing ';' before identifier 'bytes_to_read'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(30,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(30,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(30,18): error C2146: syntax error: missing ';' before identifier 'buffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(31,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(31,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(31,18): error C2146: syntax error: missing ';' before identifier 'BaseAddress'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(32,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(32,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(32,18): error C2146: syntax error: missing ';' before identifier 'pHandle'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(33,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(33,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(33,18): error C2146: syntax error: missing ';' before identifier 'hNtReadVirutalMemory'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(34,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(38,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(39,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(39,18): error C2146: syntax error: missing ';' before identifier 'pHandle'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(40,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(40,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(40,18): error C2146: syntax error: missing ';' before identifier 'hNtClose'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(41,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(45,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(46,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(46,18): error C2146: syntax error: missing ';' before identifier 'DebugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(47,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(47,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(47,18): error C2146: syntax error: missing ';' before identifier 'DebugInfoClassMask'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(48,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(48,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(48,18): error C2146: syntax error: missing ';' before identifier 'ProcessId'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(49,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(49,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(49,18): error C2146: syntax error: missing ';' before identifier 'hRtlQueryProcessDebugInformation'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(50,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(53,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(54,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(54,18): error C2146: syntax error: missing ';' before identifier 'eventPair'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(55,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(55,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(55,18): error C2146: syntax error: missing ';' before identifier 'sizeOfSize'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(56,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(56,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(56,18): error C2146: syntax error: missing ';' before identifier 'hRtlCreateQueryDebugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(57,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(60,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(61,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(61,18): error C2146: syntax error: missing ';' before identifier 'debugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(62,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(62,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(62,18): error C2146: syntax error: missing ';' before identifier 'hRtlDestroyQueryDebugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(63,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(65,23): error C2485: 'naked': unrecognized extended attribute
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(79,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(81,9): error C2065: 'mov': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(81,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(81,13): error C2065: 'eax': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(81,18): error C2065: 'fs': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(81,20): error C2143: syntax error: missing ';' before ':'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(81,20): error C2059: syntax error: ':'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(94,31): warning C4477: 'sprintf' : format string '%ws' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'void *'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(99,38): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(99,38): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(94,9): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(108,71): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'PIMAGE_DOS_HEADER' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(109,100): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'PIMAGE_NT_HEADERS32' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(111,96): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'PIMAGE_EXPORT_DIRECTORY' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(112,80): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned int *' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(115,51): warning C4312: 'type cast': conversion from 'DWORD' to 'char *' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(118,103): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned short *' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(119,75): warning C4312: 'type cast': conversion from 'unsigned long' to 'DWORD *' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(189,56): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\WinApiReversed.cpp(243,99): warning C4312: 'type cast': conversion from 'DWORD' to 'PDEBUG_BUFFER' of greater size
+  wrappers.cpp
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(17,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(18,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(18,18): error C2146: syntax error: missing ';' before identifier 'client_id'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(19,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(19,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(19,18): error C2146: syntax error: missing ';' before identifier 'ObjectAttributes'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(20,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(20,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(20,18): error C2146: syntax error: missing ';' before identifier 'DesiredAccess'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(21,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(21,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(21,18): error C2146: syntax error: missing ';' before identifier 'pHandle'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(22,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(22,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(22,18): error C2146: syntax error: missing ';' before identifier 'hNtOpenProcess'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(23,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(27,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(28,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(28,18): error C2146: syntax error: missing ';' before identifier 'bytes_readed'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(29,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(29,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(29,18): error C2146: syntax error: missing ';' before identifier 'bytes_to_read'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(30,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(30,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(30,18): error C2146: syntax error: missing ';' before identifier 'buffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(31,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(31,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(31,18): error C2146: syntax error: missing ';' before identifier 'BaseAddress'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(32,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(32,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(32,18): error C2146: syntax error: missing ';' before identifier 'pHandle'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(33,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(33,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(33,18): error C2146: syntax error: missing ';' before identifier 'hNtReadVirutalMemory'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(34,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(38,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(39,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(39,18): error C2146: syntax error: missing ';' before identifier 'pHandle'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(40,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(40,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(40,18): error C2146: syntax error: missing ';' before identifier 'hNtClose'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(41,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(45,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(46,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(46,18): error C2146: syntax error: missing ';' before identifier 'DebugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(47,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(47,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(47,18): error C2146: syntax error: missing ';' before identifier 'DebugInfoClassMask'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(48,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(48,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(48,18): error C2146: syntax error: missing ';' before identifier 'ProcessId'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(49,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(49,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(49,18): error C2146: syntax error: missing ';' before identifier 'hRtlQueryProcessDebugInformation'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(50,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(53,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(54,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(54,18): error C2146: syntax error: missing ';' before identifier 'eventPair'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(55,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(55,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(55,18): error C2146: syntax error: missing ';' before identifier 'sizeOfSize'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(56,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(56,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(56,18): error C2146: syntax error: missing ';' before identifier 'hRtlCreateQueryDebugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(57,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(60,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(61,13): error C2065: 'push': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(61,18): error C2146: syntax error: missing ';' before identifier 'debugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(62,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(62,13): error C2065: 'call': undeclared identifier
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(62,18): error C2146: syntax error: missing ';' before identifier 'hRtlDestroyQueryDebugBuffer'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(63,9): error C2143: syntax error: missing ';' before '}'
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.h(65,23): error C2485: 'naked': unrecognized extended attribute
+C:\Users\xapak\source\repos\ntdll_test\ntdll_test\wrappers.cpp(32,12): error C2485: 'naked': unrecognized extended attribute
+  Generating Code...
